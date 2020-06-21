@@ -1,0 +1,11 @@
+[info] TypeclassesTest:
+[info] - test method revers
+[info] - test method testReversableString
+[info] - test method smash
+[info] - test method testSmashInt
+[info] - test method testSmashDouble
+[info] - test method testSmashString
+[info] - test method reverse
+[info] - test method smash in implication object SmashInt
+[info] - test method smash in implication object SmashDouble
+[info] - test method smash in implication object SmashString

@@ -1,0 +1,5 @@
+[info] AnimalTest:
+[info] - test method knownAnimal
+[info] - test method apply when passes null
+[info] - test method apply when passes Mammals class
+[info] - test method eats

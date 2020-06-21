@@ -1,0 +1,14 @@
+[debug] Running TaskDef(MapsTest, org.scalatest.tools.Framework$$anon$1@42aaa89e, false, [SuiteSelector])
+[debug] Running TaskDef(StringTest, org.scalatest.tools.Framework$$anon$1@42aaa89e, false, [SuiteSelector])
+[debug] Running TaskDef(AdtsTest, org.scalatest.tools.Framework$$anon$1@42aaa89e, false, [SuiteSelector])
+[debug] Running TaskDef(SequenceTest, org.scalatest.tools.Framework$$anon$1@42aaa89e, false, [SuiteSelector])
+[info] Run completed in 366 milliseconds.
+[info] Total number of tests run: 22
+[info] Suites: completed 4, aborted 0
+[info] Tests: succeeded 22, failed 0, canceled 0, ignored 0, pending 0
+[info] All tests passed.
+[debug] Passed tests:
+[debug] 	SequenceTest
+[debug] 	StringTest
+[debug] 	AdtsTest
+[debug] 	MapsTest

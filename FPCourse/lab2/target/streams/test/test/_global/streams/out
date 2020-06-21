@@ -1,0 +1,12 @@
+[debug] Running TaskDef(RecursiveFunctionsTest, org.scalatest.tools.Framework$$anon$1@62d7668b, false, [SuiteSelector])
+[debug] Running TaskDef(CompositionsTest, org.scalatest.tools.Framework$$anon$1@62d7668b, false, [SuiteSelector])
+[debug] Running TaskDef(RecursiveDataTest, org.scalatest.tools.Framework$$anon$1@62d7668b, false, [SuiteSelector])
+[info] Run completed in 255 milliseconds.
+[info] Total number of tests run: 19
+[info] Suites: completed 3, aborted 0
+[info] Tests: succeeded 19, failed 0, canceled 0, ignored 0, pending 0
+[info] All tests passed.
+[debug] Passed tests:
+[debug] 	CompositionsTest
+[debug] 	RecursiveDataTest
+[debug] 	RecursiveFunctionsTest

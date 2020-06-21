@@ -1,0 +1,14 @@
+[debug] Running TaskDef(PatternsTest, org.scalatest.tools.Framework$$anon$1@a5ba0df, false, [SuiteSelector])
+[debug] Running TaskDef(HigherOrderTest, org.scalatest.tools.Framework$$anon$1@a5ba0df, false, [SuiteSelector])
+[debug] Running TaskDef(FunctionsTest, org.scalatest.tools.Framework$$anon$1@a5ba0df, false, [SuiteSelector])
+[debug] Running TaskDef(AnimalTest, org.scalatest.tools.Framework$$anon$1@a5ba0df, false, [SuiteSelector])
+[info] Run completed in 236 milliseconds.
+[info] Total number of tests run: 27
+[info] Suites: completed 4, aborted 0
+[info] Tests: succeeded 27, failed 0, canceled 0, ignored 0, pending 0
+[info] All tests passed.
+[debug] Passed tests:
+[debug] 	PatternsTest
+[debug] 	FunctionsTest
+[debug] 	AnimalTest
+[debug] 	HigherOrderTest

@@ -1,0 +1,10 @@
+[info] RecursiveFunctionsTest:
+[info] - test method length
+[info] - test method reverse
+[info] - test method testReverse
+[info] - test method map
+[info] - test method testMap
+[info] - test method append
+[info] - test method testAppend
+[info] - test method flatMap
+[info] - test method testFlatMap
